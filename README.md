@@ -40,4 +40,4 @@ This script will load the EEG data, apply the signal processing techniques, and 
 
 ### LaTeX report
 
-After running the analysis, you can view the LaTeX report (`latex/report.pdf`) in the `latex/` directory with all the LaTeX files.
+After running the analysis, you can view the LaTeX report (`latex/rep.pdf`) in the `latex/` directory with all the LaTeX files.
