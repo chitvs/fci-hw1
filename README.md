@@ -1,6 +1,6 @@
 # EEG signal analysis
 
-In this university group project, we analyzed EEG signals to differentiate between motor imagery and resting states. We used Python and scientific libraries like NumPy, SciPy, and Matplotlib for data processing, visualization, and analysis. The project aims to explore the potential of EEG in applications such as Brain-Computer Interfaces (BCIs) and neurotechnology.
+In this university group project, we analyzed EEG signals to differentiate between motor imagery and resting states. We used Python and scientific libraries like NumPy, SciPy, and Matplotlib for data processing, visualization, and analysis. The project aims to explore the potential of EEG in applications such as brain-computer interfaces (BCIs) and neurotechnology.
 
 > **Note**: We all equally contributed to this project, collaborating together on the analysis, coding, and documentation.
 
@@ -40,5 +40,5 @@ This script will load the EEG data, apply the signal processing techniques, and 
 
 ### LaTeX report
 
-After running the analysis, you can view the LaTeX report (`latex/rep.pdf`) in the `latex/` directory with all the LaTeX files.
+After running the analysis, you can view the LaTeX report (`rep.pdf`) in the `latex/` directory with all the LaTeX files.
 
