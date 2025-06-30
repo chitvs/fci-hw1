@@ -2,7 +2,8 @@
 
 In this university group project, we analyzed EEG signals to differentiate between motor imagery and resting states. We used Python and scientific libraries like NumPy, SciPy, and Matplotlib for data processing, visualization, and analysis. The project aims to explore the potential of EEG in applications such as brain-computer interfaces (BCIs) and neurotechnology.
 
-> **Note**: We all equally contributed to this project, collaborating together on the analysis, coding, and documentation.
+> [!NOTE]  
+> We all equally contributed to this project, collaborating together on the analysis, coding, and documentation.
 
 ## Project overview
 
